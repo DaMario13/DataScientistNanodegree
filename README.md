@@ -4,11 +4,11 @@
 
 If you  want  to run this  Jupyter Notebook you need to install these libaries:
 
-[numpy](https://github.com/numpy/numpy)
-[pandas](https://github.com/pandas-dev/pandas)
-[matplotlib] (https://github.com/matplotlib/matplotlib)
-[seaborn](https://github.com/mwaskom/seaborn)
-[sklearn] (https://scikit-learn.org/stable/index.html)
+1. [numpy](https://github.com/numpy/numpy)
+2. [pandas](https://github.com/pandas-dev/pandas)
+3. [matplotlib](https://github.com/matplotlib/matplotlib)
+4. [seaborn](https://github.com/mwaskom/seaborn)
+5. [sklearn](https://scikit-learn.org/stable/index.html)
 
 ## Motivation
 
