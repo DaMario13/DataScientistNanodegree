@@ -21,8 +21,9 @@ During the analysis I answered the following questions.
 2. Which impact has the age and gender on the salary?
 3. How well can we predict an indivudals working hours per week? Which aspects correlate well to the working hours per week?
 
-The results you can see in the file StackOverflowSurveyAnalysis.ipynb 
-Because the Data Set is not in the github repository you have to download it with the link above and put it into
+You can see the results in the file StackOverflowSurveyAnalysis.ipynb.
+
+The Data Set is not in the github repository. You have to download it with the link above and put it into
 the same folder as the StackOverflowSurveyAnalysis file.
 
 
